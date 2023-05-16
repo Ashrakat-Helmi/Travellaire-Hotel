@@ -1,0 +1,62 @@
+﻿@model Hotel.Models.Room
+
+@{
+    ViewData["Title"] = "Create";
+}
+@if (ViewBag.Message != null)
+{
+    <span style="color:orangered">@Html.Raw(ViewBag.Message)</span>
+}
+
+<h1>Create</h1>
+
+<h4>Room</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create" enctype="multipart/form-data">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="roomName" class="control-label"></label>
+                <input asp-for="roomName" class="form-control" />
+                <span asp-validation-for="roomName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="roomType" class="control-label"></label>
+                <input asp-for="roomType" class="form-control" />
+                <span asp-validation-for="roomType" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="priceParNight" class="control-label"></label>
+                <input asp-for="priceParNight" class="form-control" />
+                <span asp-validation-for="priceParNight" class="text-danger"></span>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="availiablilty" /> @Html.DisplayNameFor(model => model.availiablilty)
+                </label>
+            </div>
+            <div class="form-group">
+                <label asp-for="numberOfBookingTimes" class="control-label"></label>
+                <input asp-for="numberOfBookingTimes" class="form-control" />
+                <span asp-validation-for="numberOfBookingTimes" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="room_Pic" class="control-label"></label>
+                <input asp-for="room_Pic" class="form-control" type="file" name="room_Pic" />
+                <span asp-validation-for="room_Pic" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

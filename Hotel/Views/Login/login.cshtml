@@ -1,0 +1,57 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewData["Title"] = "Login Page";
+    Layout = null;
+}
+@model UserLogin ; 
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Hotel</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/Hotel.styles.css" asp-append-version="true" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Berkshire+Swash&family=Playfair+Display:ital@1&family=Roboto:wght@100;300&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="row justify-content-between">
+        <div class="col-md-5  ">
+            <div class="hotelName">
+                <p class="hotelNamep1">Travellaire</p>
+                <p class="hotelNamep2">HOtel</p>
+            </div>
+
+            <h1 class="welcome text-center">welcome again</h1>
+            <p class="text-center p1">Sign in to your Account</p>
+            <div class="d-flex justify-content-center">
+                <form class="form1" asp-controller="login" method ="post" asp-action="login" >
+                    <div class="mb-3">
+                        <label asp-for=userEmail for="exampleInputEmail1" class="form-label">Email</label>
+                        <input asp-for=userEmail type="email" class="form-control" id="exampleInputEmail1">
+                    </div>
+                    <div class="mb-3">
+                        <label asp-for =userPassword  for="exampleInputPassword1" class="form-label">Password</label>
+                        <input asp-for=userPassword type="password" class="form-control" id="exampleInputPassword1">
+                    </div>
+                    <div class="d-grid gap-2">
+                        <button type="submit" class="btn">Login</button>
+                    </div>
+                </form>
+            </div>
+            <p class="text-center">Or</p>
+            <div class="text-center socialIcon1">
+                <a href=""><img src="~/img/image 4.png" /></a>
+                <a href=""><img src="~/img/image 5.png" /></a>
+                <p>Don’t have an account ? <a asp-controller="Register" asp-action="Index">Register</a></p>
+            </div>
+        </div>
+        <div class="col-md-7 registDiv">
+            <img class="registImg" src="~/img/Rectangle 1124.png" height="720px" alt="image not found">
+            <div class="color-overlay"></div>
+        </div>
+    </div>
+</body>

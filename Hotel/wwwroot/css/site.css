@@ -1,0 +1,630 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+html {
+    font-size: 14px;
+    
+}
+.navbar{
+    padding-top: 0px !important;
+    background-color: #14274A;
+}
+.nav-link {
+    font-family: 'Be Vietnam Pro', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 100%;
+}
+.nav-link:active{
+    text-decoration:underline;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+/*=============================================================*/
+.row{
+    margin:0px !important;
+    padding:0px !important;
+}
+
+.registDiv {
+    position: relative;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+.registImg {
+    
+    width: 100%;
+
+}
+.color-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(29, 35, 102, 0.5);
+}
+/* =====================================================================*/
+
+.hotelName {
+    display: inline-block;
+    background: #E0B973;
+    border-radius: 0px 0px 30px 30px;
+    margin-left: 10%;
+}
+.hotelNamep1 {
+    font-family: 'Berkshire Swash', cursive;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 100%;
+    /* identical to box height, or 40px */
+
+    letter-spacing: 0.1em;
+    color: #1D2366;
+    margin-top: 10px;
+}
+.hotelNamep2 {
+    font-family: 'Berkshire Swash', cursive;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 100%;
+    /* identical to box height, or 20px */
+
+    letter-spacing: 0.25em;
+    color: #1D2366;
+    margin-left: 75px;
+}
+
+.welcome {
+    font-family: 'Be Vietnam Pro', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 60px;
+    line-height: 80px;
+    /* identical to box height */
+    color: #14274A;
+}
+
+.form1{
+    width:60%;
+}
+.form1 label {
+    font-family: 'Be Vietnam Pro', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 20x;
+    /* identical to box height */
+    color: #1D2366;
+}
+.form1 input {
+    border: 3px solid #888888;
+    border-radius: 40px;
+}
+.form1 button {
+    background: #DFAA5B;
+    border-radius: 40px;
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 40px;
+    /* identical to box height */
+    text-align: center;
+    color: #14274A;
+}
+.socialIcon1 a img{
+    width:50px;
+    margin:0px 10px 0px 10px;
+}
+.socialIcon1 p {
+    margin-top: 10px;
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    color: rgba(20, 39, 74, 0.5);
+}
+.socialIcon1 p a {
+    color: rgba(210, 147, 54, 0.7);
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+}
+.p1 {
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size:30px;
+    color: rgba(136, 136, 136, 0.8);
+}
+/*============================================================================================*/
+.section1 {
+    background-image: url('../img/img48.png');
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    height:100vh;
+}
+.section1 .row {
+    background-color: #14274a66;
+}
+.section1 .span1 {
+    font-family: 'Berkshire Swash';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 85px;
+    line-height: 137px;
+    /* identical to box height */
+    letter-spacing: 0.1em;
+    color: #FFFFFF;
+}
+.section1 .header1 {
+    font-family: 'Aclonica';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 68px;
+    /* identical to box height */
+    letter-spacing: 0.1em;
+    color: #FFFFFF;
+}
+.section1 .p3 {
+    font-family: 'El Messiri';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 47px;
+    letter-spacing: 0.1em;
+    color: #FFFFFF;
+}
+.section1 .btn {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 30px;
+    color: #FFFFFF;
+    background: #E0B973;
+    border-radius: 10px;
+    padding:15px;
+    margin-top:300px;
+    margin-left:200px;
+}
+.section1 .btn img{
+    padding:10px;
+}
+/*===================*/
+
+/*===============================*/
+.section2 {
+    color: #1D2366;
+   
+}
+.section2 .header2 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 60px;
+    /* identical to box height */
+    margin-top:100px;
+}
+.section2 .p4 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 22px;
+    /* identical to box height */
+}
+.section2 .row div{
+    background: #FAFAFA;
+    border-radius: 5px;
+}
+/*=====================================*/
+.section3 .header3 {
+    font-family: 'Adobe Garamond Pro';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 72px;
+    /* identical to box height */
+    letter-spacing: 0.02em;
+    color: #14274A;
+}
+.section3 .p5 {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 37px;
+    color: #1D2366;
+}
+.section3 .p5 a{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 37px;
+    color: #1D2366;
+}
+.section3 .btn {
+    background: #DFAA5B;
+    border-radius: 2px;
+    font-family: 'Adobe Garamond Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 60px;
+    /* identical to box height */
+    letter-spacing: 0.02em;
+    color: #FFFFFF;
+}
+.section3 .divtext {
+    border-left: 2px solid #14274A;
+}
+/*======================================*/
+.section4{
+    background-image:url('../img/pexels-jonathan-borba-12876490.png');
+    height:600px;
+}
+.section4 div {
+    background-color: rgba(29, 35, 102, 0.4);
+    height: 600px;
+}
+.section4 .header4{
+    font-family: 'Aclonica';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 57px;
+    /* identical to box height */
+    text-align: center;
+    color: #FFFFFF;
+}
+.section4 .p6{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 35px;
+    text-align: center;
+    color: rgba(255, 255, 255, 0.7);
+}
+/*====================================*/
+.Testimonies h2 {
+    font-family: 'Be Vietnam Pro';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 50px;
+    line-height: 63px;
+    color: #000000;
+}
+.Testimonies .col-md-3 {
+    background: #FAFAFA;
+    border-radius: 10px;
+}
+.Testimonies p {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 18px;
+    text-align: justify;
+    color: #454545;
+}
+/*============================================================================================*/
+.section5 {
+    background-image: url('../img/Rectangle 1107.png');
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    height: 100vh;
+}
+
+.section5 .row {
+    background-color: #14274a66;
+    height: 100vh;
+}
+
+.section5 .span1 {
+    font-family: 'Berkshire Swash';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 85px;
+    line-height: 137px;
+    /* identical to box height */
+    letter-spacing: 0.1em;
+    color: #FFFFFF;
+}
+
+.section5 .header1 {
+    font-family: 'Aclonica';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 68px;
+    /* identical to box height */
+    letter-spacing: 0.1em;
+    color: #FFFFFF;
+}
+
+.section5 .p3 {
+    font-family: 'El Messiri';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 47px;
+    letter-spacing: 0.1em;
+    color: #FFFFFF;
+}
+
+/*====================================*/
+.allSection h2 {
+    font-family: 'Be Vietnam Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 63px;
+    color: #14274A;
+}
+.allSection .card-title {
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 31px;
+    text-align: justify;
+    color: #7C6A46;
+}
+.allSection .card-text {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+    /* identical to box height */
+    text-align: justify;
+    color: #7C6A46;
+}
+.allSection .btn {
+    background: #DFAA5B;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 22px;
+    /* identical to box height */
+    text-align: justify;
+    color: #FFFFFF;
+}
+.allSection .card{
+    border:none;
+}
+.allSection .card-body {
+    border: 1px solid #000000;
+    border-radius: 0px 0px 15px 15px;
+}
+/*===========================================================================================*/
+.section6 {
+    background: #14274A;
+}
+.section6 h1 {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 80px;
+    line-height: 98px;
+    /* identical to box height */
+    color: #FFFFFF;
+}
+/*==============================*/
+.roomSection .card {
+    border:none;
+}
+.roomSection .card-title {
+    font-family: 'Be Vietnam Pro';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 50px;
+    line-height: 63px;
+    color: #DFAA5B;
+}
+.roomSection .card-text {
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 31px;
+    text-align: justify;
+    color: #DFAA5B;
+}
+/*===========================*/
+.bookForm label {
+    font-family: 'Be Vietnam Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 51px;
+    /* identical to box height */
+    color: #1D2366;
+}
+.bookForm input{
+    height:50px;
+}
+.bookForm .btn {
+    background: #DFAA5B;
+    border-radius: 15px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 35px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    width :50%;
+    padding:5px 0px 5px 0px;
+}
+/*=============================*/
+.cancelSection h2 {
+    font-family: 'Be Vietnam Pro';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 50px;
+    line-height: 63px;
+    text-align: justify;
+    color: #1D2366;
+}
+.cancelSection p {
+    font-family: 'Be Vietnam Pro';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 30px;
+    line-height: 38px;
+    text-align: justify;
+    color: #1D2366;
+}
+/*==============================*/
+.servicesSection h2 {
+    font-family: 'Be Vietnam Pro';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 50px;
+    line-height: 63px;
+    text-align: justify;
+    color: #1D2366;
+}
+
+.servicesSection .p4 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 22px;
+    /* identical to box height */
+}
+
+.servicesSection .row div {
+    background: #FAFAFA;
+    border-radius: 5px;
+}
+/*=================================*/
+.contactForm label {
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+    /* identical to box height */
+
+    text-align: center;
+    color: #1D2366;
+}
+.contactForm .w-48{
+    width:49%;
+}
+.contactForm .btn {
+    background: #DFAA5B;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 22px;
+    /* identical to box height */
+    text-align: justify;
+    color: #FFFFFF;
+}
+.map{
+    background:url('../img/Rectangle 36.png');
+    height:300px;
+}
+/*============================================================================================*/
+footer {
+    background: #14274A;
+    position: relative !important;
+}
+footer .hotelNamep1 {
+    color: #FFFFFF;
+    font-family: 'Berkshire Swash', cursive;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 100%;
+    /* identical to box height, or 40px */
+    letter-spacing: 0.1em;
+    margin-top: 10px;
+}
+footer .hotelNamep2 {
+    color: #FFFFFF;
+    font-family: 'Berkshire Swash', cursive;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 100%;
+    /* identical to box height, or 20px */
+    letter-spacing: 0.25em;
+    margin-left: 75px;
+}
+footer .list1 {
+    padding-left: 0px;
+}
+footer li {
+    list-style: none;
+    line-height: 17px;
+}
+footer .list1 li a {
+    color: rgba(255, 255, 255, 1) ;
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 200;
+    font-size: 10px;
+}
+a[b-3yaibmce4x]{
+    color: rgba(255, 255, 255, 1) !important;
+}
+
+footer .list2 li a {
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    text-decoration: none;
+    color: rgba(255, 255, 255, 1) !important;
+}
+footer .list2 li a img{
+    width:10px;
+}
+footer .form-control {
+    height: 50px;
+    border-radius: 0px;
+    border: 2px rgba(223, 170, 91, 1) solid;
+    background: #14274A;
+    color: #ffffff;
+}
+footer .btn {
+    border-radius: 0px;
+    background-color: rgba(223, 170, 91, 1);
+    border-color: rgba(223, 170, 91, 1);
+    color:#ffffff;
+}
+footer .p2 {
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    color: #FFFFFF;
+}
+footer .tri {
+    width: 0;
+    height: 0;
+    border-left: 50px solid transparent;
+    border-right: 50px solid transparent;
+    border-top: 80px solid #fff;
+}

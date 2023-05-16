@@ -1,0 +1,73 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewData["Title"] = "Register Page";
+    Layout = null;
+}
+@model RegisterModel ; 
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Hotel</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/Hotel.styles.css" asp-append-version="true" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Berkshire+Swash&family=Playfair+Display:ital@1&family=Roboto:wght@100;300&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="row justify-content-between">
+        <div class="col-md-5  ">
+            <div class="hotelName">
+                <p class="hotelNamep1">Travellaire</p>
+                <p class="hotelNamep2">HOtel</p>
+            </div>
+
+            <h1 class="welcome text-center">welcome</h1>
+            <div class="d-flex justify-content-center">
+            <form class="form1" asp-action="register" method="post" asp-controller="register">
+                <input asp-for=ID hidden>
+                <div class="mb-3">
+                        <label asp-for=userName for="fullname" class="form-label">Full name</label>
+                        <input asp-for=userName type="text" class="form-control" id="fullname">
+                </div>
+                <div class="mb-3">
+                    <label asp-for=userMobile for="phone" class="form-label">Phone</label>
+                    <input asp-for=userMobile type="text" class="form-control" id="phone">
+                </div>
+              <div class="mb-3">
+                <label asp-for=userEmail for="exampleInputEmail1" class="form-label">Email</label>
+                <input asp-for=userEmail type="email" class="form-control" id="exampleInputEmail1">
+              </div>
+                    <div class="mb-3">
+                        <label asp-for=address for="address" class="form-label">Address</label>
+                        <input asp-for=address type="text" class="form-control" id="address">
+                    </div>
+              <div class="mb-3">
+                <label asp-for=userPass for="exampleInputPassword1" class="form-label">Password</label>
+                <input asp-for=userPass type="password" class="form-control" id="exampleInputPassword1">
+              </div>
+              <div class="mb-3">
+                         <label asp-for=confirmPass for="exampleInputPassword2" class="form-label">confirmation Password</label>
+                        <input asp-for=confirmPass type="password" class="form-control" id="exampleInputPassword2">
+              </div>
+              <div class="d-grid gap-2">
+                    <button type="submit" class="btn">Sign up</button>
+              </div>
+            </form>
+            </div>
+            <p class="text-center">Or</p>
+            <div class="text-center socialIcon1">
+                <a href=""><img src="~/img/image 4.png" /></a>
+                <a href=""><img src="~/img/image 5.png" /></a>
+                <p>Do you have an account ? <a asp-controller="Login" asp-action="login">Log in</a></p>
+            </div>
+        </div>
+        <div class="col-md-7 registDiv">
+            <img class="registImg" src="~/img/Rectangle 1127.png" height="950px" alt="image not found">
+            <div class="color-overlay"></div>
+        </div>
+    </div>
+</body>

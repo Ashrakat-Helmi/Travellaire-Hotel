@@ -1,0 +1,124 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewData["Title"] = "Booking Page";
+}
+<section class="section6 text-center">
+    <h1>Booking</h1>
+</section>
+<section class="roomSection mx-5 text-center">
+    <div class="card mx-5" style="width: 90%;">
+      <div class="card-body">
+            <h5 class="card-title">The Royal Room</h5>
+            <p class="card-text text-end">Available: Yes</p>
+            <p class="card-text text-end">₦190,000</p>
+      </div>
+      <img src="~/img/Rectangle 1148.png" class="card-img-top" alt="...">
+    </div>
+</section>
+<<section class="bookForm mx-3">
+    <form>
+        <div class="row justify-content-around">
+            <div class="col-md-4 my-5">
+                <div class="mb-3">
+                    <label for="fullName" class="form-label">Full Name</label>
+                    <input type="text" class="form-control" id="fullName">
+                </div>
+                <div class="mb-3">
+                    <label for="Checkin" class="form-label">Checkin</label>
+                    <input type="datetime" class="form-control" id="Checkin">
+                </div>
+                <div class="mb-3">
+                    <label for="Checkout" class="form-label">Check out</label>
+                    <input type="datetime" class="form-control" id="Checkout">
+                </div>
+                <div class="mb-3">
+                    <label for="totalPrice" class="form-label">Total Price</label>
+                    <input type="text" class="form-control" readonly id="totalPrice">
+                </div>
+            </div>
+            <div class="col-md-4 my-5">
+                <div class="row justify-content-between">
+                    <div class="col-md-3">
+                        <img class="img-fluid" src="~/img/Rectanglevisa1.png" />
+                    </div>
+                    <div class="col-md-3">
+                        <img class="img-fluid" src="~/img/Rectanglevisa2.png" />
+                    </div>
+                    <div class="col-md-3">
+                        <img class="img-fluid" src="~/img/Rectanglevisa3.png" />
+                    </div>
+                </div>
+                <div class="mb-3">
+                    <label for="NameOnCard" class="form-label">Name on card</label>
+                    <input type="text" class="form-control" id="NameOnCard">
+                </div>
+                <div class="mb-3">
+                    <label for="CARDNUMBER" class="form-label">CARD NUMBER</label>
+                    <input type="text" class="form-control" id="CARDNUMBER">
+                </div>
+                <div class="mb-3 d-lg-inline-block me-5">
+                    <label for="EXPDATE" class="form-label">EXP DATE</label>
+                    <input type="date" class="form-control me-5" id="EXPDATE">
+                </div>
+                <div class="mb-3 d-lg-inline-block">
+                    <label for="CVV" class="form-label">CVV</label>
+                    <input type="text" class="form-control" id="CVV">
+                </div>
+            </div>
+           
+            <div class="col-md-12 text-center">
+                <a class="btn mb-5">PAY NOW</a>
+            </div>
+        </div>
+    </form>
+</section>
+<section class="Testimonies m-5 p-5">
+    <h2 class="text-center my-5">Testimonies</h2>
+    <div class="row justify-content-around">
+        <div class="col-md-3">
+            <img src="~/img/Group 10.png" class="float-end" />
+            <p>25 Mar. 2023</p>
+            <p class="my-5"><img src="~/img/Vectorstart.png" />The service at the Hotel Monteleone was exceptional. There was absolutely no issue that was not addressed timely and with satisfactory results. We were particulary impressed with how the hotel staff anticipated our needs (periodically coming by the Board Room to check with us). Numerous conference attendees commented on the quality of the food, the quality of the service and overall positive attitude toward the conference site. Particular noteworthy is the longevity of the staff and that sense of investment in the success of every event. I usually offer suggestions for improvements (part of being a marketing professor), but there is absolutely nothing that could be improved – you have set the bar very high. <img src="~/img/Vectorend.png" /></p>
+            <p><img src="~/img/Ellipse 5 (1).png" class="me-2" />Regina Gella</p>
+        </div>
+        <div class="col-md-3">
+            <img src="~/img/Group 10.png" class="float-end" />
+            <p>5 Apr. 2023</p>
+            <p class="my-5"><img src="~/img/Vectorstart.png" />The service at the Hotel Monteleone was exceptional. There was absolutely no issue that was not addressed timely and with satisfactory results. We were particulary impressed with how the hotel staff anticipated our needs (periodically coming by the Board Room to check with us). Numerous conference attendees commented on the quality of the food, the quality of the service and overall positive attitude toward the conference site. Particular noteworthy is the longevity of the staff and that sense of investment in the success of every event. I usually offer suggestions for improvements (part of being a marketing professor), but there is absolutely nothing that could be improved – you have set the bar very high. <img src="~/img/Vectorend.png" /></p>
+            <p><img src="~/img/Ellipse 5 (2).png" class="me-2 " />Jamiyu Aliyu</p>
+        </div>
+        <div class="col-md-3">
+            <img src="~/img/Group 10.png" class="float-end" />
+            <p>2 Mar. 2023</p>
+            <p class="my-5"><img src="~/img/Vectorstart.png" />The service at the Hotel Monteleone was exceptional. There was absolutely no issue that was not addressed timely and with satisfactory results. We were particulary impressed with how the hotel staff anticipated our needs (periodically coming by the Board Room to check with us). Numerous conference attendees commented on the quality of the food, the quality of the service and overall positive attitude toward the conference site. Particular noteworthy is the longevity of the staff and that sense of investment in the success of every event. I usually offer suggestions for improvements (part of being a marketing professor), but there is absolutely nothing that could be improved – you have set the bar very high. <img src="~/img/Vectorend.png"></p>
+            <p><img src="~/img/Ellipse 5.png" class="me-2" />Anthony Bruff</p>
+        </div>
+    </div>
+</section>
+<section class="cancelSection mx-5 px-5">
+    <h2 class="my-5">Cancellation and refund policies</h2>
+    <p>Travel bookings: Many airlines, hotels, and travel agencies allow customers to cancel their reservations for a fee or within a certain timeframe before the travel date. Refund policies may vary depending on the specific terms of the booking, such as whether it was non-refundable or refundable.</p>
+</section>
+<section class="servicesSection mx-5 px-5">
+    <h2 class="my-5">services</h2>
+    <div class="row text-center justify-content-evenly ">
+        <div class="col-md-2 m-5 py-5">
+            <img src="~/img/makiSwimming0.png" />
+            <p>Swimming Pool</p>
+        </div>
+        <div class="col-md-2 m-5 py-5">
+            <img src="~/img/wifi.png" />
+            <p>Wifi</p>
+        </div>
+        <div class="col-md-2 m-5 py-5">
+            <img src="~/img/breakfast.png" />
+            <p>Breakfast</p>
+        </div>
+        <div class="col-md-2 m-5 py-5">
+            <img src="~/img/gym.png" />
+            <p>Gym</p>
+        </div>
+    </div>
+</section>
