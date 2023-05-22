@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fTap7ZbEl/KGIbvQ1Xj36KiwVgSZ3d2y0VVC7BHOm4OejjOmCDsSrs/UOU1a9h4Td2zDPG/EhFyB30BFK/ooIA==",
+  "dgSpecHash": "nx0c6LCSmuRX+ldw2IeDHoXDb8xQEqiIWKyO676OBXEZnx0chQ2Mhzi3mpFHFDtVRCCcsd/J1AIpTopLuZ3uGA==",
   "success": true,
-  "projectFilePath": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\Hotel.csproj",
+  "projectFilePath": "E:\\Travellaire-Hotel-main\\Hotel\\Hotel.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Specialist\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Specialist\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

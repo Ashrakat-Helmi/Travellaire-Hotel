@@ -1,5 +1,6 @@
 ﻿using Hotel.Data;
 using Hotel.Models;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Hotel.Controllers
@@ -27,15 +28,18 @@ namespace Hotel.Controllers
                 var user = db.registerModels.FirstOrDefault(u => u.userEmail == userLogin.userEmail);
                 if (user != null)
                 {
-                    HttpContext.Session.SetString("Name", user.userName); 
+                    HttpContext.Session.SetString("Name", user.userName);
+                    HttpContext.Session.SetString("UserID", user.ID.ToString());
+
                     return RedirectToAction("index", "Home");
                 }
-                else {
+                else
+                {
 
-                    ModelState.AddModelError("" , "Invaild Email or Password"); 
+                    ModelState.AddModelError("", "Invaild Email or Password");
                 }
             }
-           
+
             return View(userLogin);
         }
 

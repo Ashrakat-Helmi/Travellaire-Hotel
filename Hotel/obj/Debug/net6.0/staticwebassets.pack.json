@@ -1,455 +1,463 @@
 {
   "Files": [
     {
-      "Id": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Hotel.bundle.scp.css",
+      "Id": "E:\\Travellaire-Hotel-main\\Hotel\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Hotel.bundle.scp.css",
       "PackagePath": "staticwebassets\\Hotel.bundle.scp.css"
     },
     {
-      "Id": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\css\\site.css",
+      "Id": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\favicon.ico",
+      "Id": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\img\\11-profile.png",
+      "Id": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\img\\11-profile.png",
       "PackagePath": "staticwebassets\\img\\11-profile.png"
     },
     {
-      "Id": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\img\\63-calendar.png",
+      "Id": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\img\\63-calendar.png",
       "PackagePath": "staticwebassets\\img\\63-calendar.png"
     },
     {
-      "Id": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\img\\64-location.png",
+      "Id": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\img\\64-location.png",
       "PackagePath": "staticwebassets\\img\\64-location.png"
     },
     {
-      "Id": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\img\\Ellipse 5 (1).png",
+      "Id": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\img\\Ellipse 5 (1).png",
       "PackagePath": "staticwebassets\\img\\Ellipse 5 (1).png"
     },
     {
-      "Id": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\img\\Ellipse 5 (2).png",
+      "Id": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\img\\Ellipse 5 (2).png",
       "PackagePath": "staticwebassets\\img\\Ellipse 5 (2).png"
     },
     {
-      "Id": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\img\\Ellipse 5.png",
+      "Id": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\img\\Ellipse 5.png",
       "PackagePath": "staticwebassets\\img\\Ellipse 5.png"
     },
     {
-      "Id": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\img\\Group 10.png",
+      "Id": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\img\\FullMoon2010.jpg",
+      "PackagePath": "staticwebassets\\img\\FullMoon2010.jpg"
+    },
+    {
+      "Id": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\img\\Group 10.png",
       "PackagePath": "staticwebassets\\img\\Group 10.png"
     },
     {
-      "Id": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\img\\Path 38@2x.png",
+      "Id": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\img\\Path 38@2x.png",
       "PackagePath": "staticwebassets\\img\\Path 38@2x.png"
     },
     {
-      "Id": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\img\\Path 39.png",
+      "Id": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\img\\Path 39.png",
       "PackagePath": "staticwebassets\\img\\Path 39.png"
     },
     {
-      "Id": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\img\\Path 40.png",
+      "Id": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\img\\Path 40.png",
       "PackagePath": "staticwebassets\\img\\Path 40.png"
     },
     {
-      "Id": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\img\\Rectangle 1107.png",
+      "Id": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\img\\Rectangle 1107.png",
       "PackagePath": "staticwebassets\\img\\Rectangle 1107.png"
     },
     {
-      "Id": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\img\\Rectangle 1124.png",
+      "Id": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\img\\Rectangle 1124.png",
       "PackagePath": "staticwebassets\\img\\Rectangle 1124.png"
     },
     {
-      "Id": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\img\\Rectangle 1127.png",
+      "Id": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\img\\Rectangle 1127.png",
       "PackagePath": "staticwebassets\\img\\Rectangle 1127.png"
     },
     {
-      "Id": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\img\\Rectangle 1136.png",
+      "Id": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\img\\Rectangle 1136.png",
       "PackagePath": "staticwebassets\\img\\Rectangle 1136.png"
     },
     {
-      "Id": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\img\\Rectangle 1137.png",
+      "Id": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\img\\Rectangle 1137.png",
       "PackagePath": "staticwebassets\\img\\Rectangle 1137.png"
     },
     {
-      "Id": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\img\\Rectangle 1138-2.png",
+      "Id": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\img\\Rectangle 1138-2.png",
       "PackagePath": "staticwebassets\\img\\Rectangle 1138-2.png"
     },
     {
-      "Id": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\img\\Rectangle 1138.png",
+      "Id": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\img\\Rectangle 1138.png",
       "PackagePath": "staticwebassets\\img\\Rectangle 1138.png"
     },
     {
-      "Id": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\img\\Rectangle 1142.png",
+      "Id": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\img\\Rectangle 1142.png",
       "PackagePath": "staticwebassets\\img\\Rectangle 1142.png"
     },
     {
-      "Id": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\img\\Rectangle 1143.png",
+      "Id": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\img\\Rectangle 1143.png",
       "PackagePath": "staticwebassets\\img\\Rectangle 1143.png"
     },
     {
-      "Id": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\img\\Rectangle 1148.png",
+      "Id": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\img\\Rectangle 1148.png",
       "PackagePath": "staticwebassets\\img\\Rectangle 1148.png"
     },
     {
-      "Id": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\img\\Rectangle 36.png",
+      "Id": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\img\\Rectangle 36.png",
       "PackagePath": "staticwebassets\\img\\Rectangle 36.png"
     },
     {
-      "Id": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\img\\Rectanglevisa1.png",
+      "Id": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\img\\Rectanglevisa1.png",
       "PackagePath": "staticwebassets\\img\\Rectanglevisa1.png"
     },
     {
-      "Id": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\img\\Rectanglevisa2.png",
+      "Id": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\img\\Rectanglevisa2.png",
       "PackagePath": "staticwebassets\\img\\Rectanglevisa2.png"
     },
     {
-      "Id": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\img\\Rectanglevisa3.png",
+      "Id": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\img\\Rectanglevisa3.png",
       "PackagePath": "staticwebassets\\img\\Rectanglevisa3.png"
     },
     {
-      "Id": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\img\\Vector4.png",
+      "Id": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\img\\Vector4.png",
       "PackagePath": "staticwebassets\\img\\Vector4.png"
     },
     {
-      "Id": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\img\\Vectorend.png",
+      "Id": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\img\\Vectorend.png",
       "PackagePath": "staticwebassets\\img\\Vectorend.png"
     },
     {
-      "Id": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\img\\Vectorstart.png",
+      "Id": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\img\\Vectorstart.png",
       "PackagePath": "staticwebassets\\img\\Vectorstart.png"
     },
     {
-      "Id": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\img\\andrew-ruiz-fmz-B9At9iQ-unsplash.png",
+      "Id": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\img\\andrew-ruiz-fmz-B9At9iQ-unsplash.png",
       "PackagePath": "staticwebassets\\img\\andrew-ruiz-fmz-B9At9iQ-unsplash.png"
     },
     {
-      "Id": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\img\\breakfast.png",
+      "Id": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\img\\ava3.webp",
+      "PackagePath": "staticwebassets\\img\\ava3.webp"
+    },
+    {
+      "Id": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\img\\breakfast.png",
       "PackagePath": "staticwebassets\\img\\breakfast.png"
     },
     {
-      "Id": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\img\\c 1.png",
+      "Id": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\img\\c 1.png",
       "PackagePath": "staticwebassets\\img\\c 1.png"
     },
     {
-      "Id": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\img\\ee 1.png",
+      "Id": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\img\\ee 1.png",
       "PackagePath": "staticwebassets\\img\\ee 1.png"
     },
     {
-      "Id": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\img\\game.png",
+      "Id": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\img\\game.png",
       "PackagePath": "staticwebassets\\img\\game.png"
     },
     {
-      "Id": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\img\\gym.png",
+      "Id": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\img\\gym.png",
       "PackagePath": "staticwebassets\\img\\gym.png"
     },
     {
-      "Id": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\img\\ian-dooley-hpTH5b6mo2s-unsplash 1.png",
+      "Id": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\img\\ian-dooley-hpTH5b6mo2s-unsplash 1.png",
       "PackagePath": "staticwebassets\\img\\ian-dooley-hpTH5b6mo2s-unsplash 1.png"
     },
     {
-      "Id": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\img\\image 1.png",
+      "Id": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\img\\image 1.png",
       "PackagePath": "staticwebassets\\img\\image 1.png"
     },
     {
-      "Id": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\img\\image 11.png",
+      "Id": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\img\\image 11.png",
       "PackagePath": "staticwebassets\\img\\image 11.png"
     },
     {
-      "Id": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\img\\image 12.png",
+      "Id": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\img\\image 12.png",
       "PackagePath": "staticwebassets\\img\\image 12.png"
     },
     {
-      "Id": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\img\\image 4.png",
+      "Id": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\img\\image 4.png",
       "PackagePath": "staticwebassets\\img\\image 4.png"
     },
     {
-      "Id": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\img\\image 5.png",
+      "Id": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\img\\image 5.png",
       "PackagePath": "staticwebassets\\img\\image 5.png"
     },
     {
-      "Id": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\img\\image 8.png",
+      "Id": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\img\\image 8.png",
       "PackagePath": "staticwebassets\\img\\image 8.png"
     },
     {
-      "Id": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\img\\image 9.png",
+      "Id": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\img\\image 9.png",
       "PackagePath": "staticwebassets\\img\\image 9.png"
     },
     {
-      "Id": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\img\\img48.png",
+      "Id": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\img\\img48.png",
       "PackagePath": "staticwebassets\\img\\img48.png"
     },
     {
-      "Id": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\img\\light.png",
+      "Id": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\img\\light.png",
       "PackagePath": "staticwebassets\\img\\light.png"
     },
     {
-      "Id": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\img\\luandry.png",
+      "Id": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\img\\luandry.png",
       "PackagePath": "staticwebassets\\img\\luandry.png"
     },
     {
-      "Id": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\img\\makiSwimming0.png",
+      "Id": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\img\\makiSwimming0.png",
       "PackagePath": "staticwebassets\\img\\makiSwimming0.png"
     },
     {
-      "Id": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\img\\park.png",
+      "Id": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\img\\park.png",
       "PackagePath": "staticwebassets\\img\\park.png"
     },
     {
-      "Id": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\img\\pexels-elina-sazonova-1838554 1.png",
+      "Id": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\img\\pexels-elina-sazonova-1838554 1.png",
       "PackagePath": "staticwebassets\\img\\pexels-elina-sazonova-1838554 1.png"
     },
     {
-      "Id": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\img\\pexels-jonathan-borba-12876490.png",
+      "Id": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\img\\pexels-jonathan-borba-12876490.png",
       "PackagePath": "staticwebassets\\img\\pexels-jonathan-borba-12876490.png"
     },
     {
-      "Id": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\img\\ss 1.png",
+      "Id": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\img\\ss 1.png",
       "PackagePath": "staticwebassets\\img\\ss 1.png"
     },
     {
-      "Id": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\img\\steven-ungermann-aRT5UCf2MYY-unsplash.png",
+      "Id": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\img\\steven-ungermann-aRT5UCf2MYY-unsplash.png",
       "PackagePath": "staticwebassets\\img\\steven-ungermann-aRT5UCf2MYY-unsplash.png"
     },
     {
-      "Id": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\img\\sw.zip",
+      "Id": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\img\\sw.zip",
       "PackagePath": "staticwebassets\\img\\sw.zip"
     },
     {
-      "Id": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\img\\wifi.png",
+      "Id": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\img\\wifi.png",
       "PackagePath": "staticwebassets\\img\\wifi.png"
     },
     {
-      "Id": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\js\\site.js",
+      "Id": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {

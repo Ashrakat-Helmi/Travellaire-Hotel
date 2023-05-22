@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\Hotel.csproj": {}
+    "E:\\Travellaire-Hotel-main\\Hotel\\Hotel.csproj": {}
   },
   "projects": {
-    "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\Hotel.csproj": {
+    "E:\\Travellaire-Hotel-main\\Hotel\\Hotel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\Hotel.csproj",
+        "projectUniqueName": "E:\\Travellaire-Hotel-main\\Hotel\\Hotel.csproj",
         "projectName": "Hotel",
-        "projectPath": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\Hotel.csproj",
+        "projectPath": "E:\\Travellaire-Hotel-main\\Hotel\\Hotel.csproj",
         "packagesPath": "C:\\Users\\Specialist\\.nuget\\packages\\",
-        "outputPath": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\obj\\",
+        "outputPath": "E:\\Travellaire-Hotel-main\\Hotel\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Specialist\\AppData\\Roaming\\NuGet\\NuGet.Config",

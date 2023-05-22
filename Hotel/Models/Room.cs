@@ -20,6 +20,6 @@ namespace Hotel.Models
         [DefaultValue("Rectangle 1138.png")]
         public string room_Pic { get; set; }
 
-        public ICollection<Booking> Bookings { get; set; }
+        public ICollection<Booking>? Bookings { get; set; }
     }
 }

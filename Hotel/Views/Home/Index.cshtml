@@ -4,14 +4,16 @@
 
 <section class="section1">
     <div class="row justify-content-around">
-       <div class="col-md-4 ">
+        <div class="col-md-4 ">
             <h1 class="header1 mt-5">Welcome to <span class="span1">Travellaire Hotel</span> in Egypt</h1>
             <p class="p3">Book your stay and enjoy Travellaire redefined at the most affordable rates.</p>
-       </div> 
+            @ViewData["sessionid"]
+        </div>
         <div class="col-md-4">
+
             <a asp-controller="Room" asp-action="Index" type="button" class="btn"> <img src="~/img/Vector4.png" />BOOK NOW</a>
         </div>
-   </div>
+    </div>
 </section>
 <section class="section2 text-center mx-5">
     <h2 class="header2">Our Facilities</h2>
@@ -66,7 +68,7 @@
                 </div>
             </div>
         </div>
-         <div class="col-md-12 my-5">
+        <div class="col-md-12 my-5">
             <div class="row justify-content-around">
                 <div class="col-md-4 divtext">
                     <h2 class="header3">Leave your worries on the beach</h2>
@@ -100,13 +102,13 @@
             <p><img src="~/img/Ellipse 5 (1).png" class="me-2" />Regina Gella</p>
         </div>
         <div class="col-md-3">
-             <img src="~/img/Group 10.png" class="float-end" /> 
+            <img src="~/img/Group 10.png" class="float-end" />
             <p>5 Apr. 2023</p>
             <p class="my-5"><img src="~/img/Vectorstart.png" />The service at the Hotel Monteleone was exceptional. There was absolutely no issue that was not addressed timely and with satisfactory results. We were particulary impressed with how the hotel staff anticipated our needs (periodically coming by the Board Room to check with us). Numerous conference attendees commented on the quality of the food, the quality of the service and overall positive attitude toward the conference site. Particular noteworthy is the longevity of the staff and that sense of investment in the success of every event. I usually offer suggestions for improvements (part of being a marketing professor), but there is absolutely nothing that could be improved – you have set the bar very high. <img src="~/img/Vectorend.png" /></p>
             <p><img src="~/img/Ellipse 5 (2).png" class="me-2 " />Jamiyu Aliyu</p>
         </div>
         <div class="col-md-3">
-             <img src="~/img/Group 10.png" class="float-end" /> 
+            <img src="~/img/Group 10.png" class="float-end" />
             <p>2 Mar. 2023</p>
             <p class="my-5"><img src="~/img/Vectorstart.png" />The service at the Hotel Monteleone was exceptional. There was absolutely no issue that was not addressed timely and with satisfactory results. We were particulary impressed with how the hotel staff anticipated our needs (periodically coming by the Board Room to check with us). Numerous conference attendees commented on the quality of the food, the quality of the service and overall positive attitude toward the conference site. Particular noteworthy is the longevity of the staff and that sense of investment in the success of every event. I usually offer suggestions for improvements (part of being a marketing professor), but there is absolutely nothing that could be improved – you have set the bar very high. <img src="~/img/Vectorend.png"></p>
             <p><img src="~/img/Ellipse 5.png" class="me-2" />Anthony Bruff</p>

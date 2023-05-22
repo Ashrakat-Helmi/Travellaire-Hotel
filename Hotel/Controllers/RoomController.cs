@@ -15,7 +15,7 @@ namespace Hotel.Controllers
     {
         private readonly ApplicationDBcontext _context;
         private readonly IWebHostEnvironment _environment;
-        public RoomController(ApplicationDBcontext context,IWebHostEnvironment environment)
+        public RoomController(ApplicationDBcontext context, IWebHostEnvironment environment)
         {
             _context = context;
             _environment = environment;
@@ -24,10 +24,11 @@ namespace Hotel.Controllers
         // GET: Room
         public async Task<IActionResult> Index()
         {
+            ViewData["session"] = HttpContext.Session.GetString("Name");
             var name = HttpContext.Session.GetString("Name");
             if (string.IsNullOrEmpty(name)) { return RedirectToAction("login", "login"); }
 
-            return _context.rooms != null ? 
+            return _context.rooms != null ?
                           View(await _context.rooms.ToListAsync()) :
                           Problem("Entity set 'ApplicationDBcontext.rooms'  is null.");
         }
@@ -61,7 +62,7 @@ namespace Hotel.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("ID,roomName,roomType,priceParNight,availiablilty,numberOfBookingTimes")] Room room,IFormFile room_Pic)
+        public async Task<IActionResult> Create([Bind("ID,roomName,roomType,priceParNight,availiablilty,numberOfBookingTimes")] Room room, IFormFile room_Pic)
         {
             string path = Path.Combine(_environment.WebRootPath, "Img"); // wwwroot/Img/
             if (!Directory.Exists(path))
@@ -176,14 +177,14 @@ namespace Hotel.Controllers
             {
                 _context.rooms.Remove(room);
             }
-            
+
             await _context.SaveChangesAsync();
             return RedirectToAction(nameof(Index));
         }
 
         private bool RoomExists(int id)
         {
-          return (_context.rooms?.Any(e => e.ID == id)).GetValueOrDefault();
+            return (_context.rooms?.Any(e => e.ID == id)).GetValueOrDefault();
         }
     }
 }

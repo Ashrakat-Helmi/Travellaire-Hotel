@@ -1,41 +1,36 @@
 ﻿@*
     For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 *@
+@model Hotel.Models.Booking
+
 @{
     ViewData["Title"] = "Booking Page";
 }
+
 <section class="section6 text-center">
     <h1>Booking</h1>
 </section>
-<section class="roomSection mx-5 text-center">
-    <div class="card mx-5" style="width: 90%;">
-      <div class="card-body">
-            <h5 class="card-title">The Royal Room</h5>
-            <p class="card-text text-end">Available: Yes</p>
-            <p class="card-text text-end">₦190,000</p>
-      </div>
-      <img src="~/img/Rectangle 1148.png" class="card-img-top" alt="...">
-    </div>
-</section>
-<<section class="bookForm mx-3">
-    <form>
+
+<section class="bookForm mx-3">
+    <form asp-action="book" method="post">
+
         <div class="row justify-content-around">
             <div class="col-md-4 my-5">
                 <div class="mb-3">
                     <label for="fullName" class="form-label">Full Name</label>
-                    <input type="text" class="form-control" id="fullName">
+                    <input type="text" readonly class="form-control" id="fullName" value="@ViewData["session"]">
                 </div>
                 <div class="mb-3">
                     <label for="Checkin" class="form-label">Checkin</label>
-                    <input type="datetime" class="form-control" id="Checkin">
+                    <input asp-for="checkIn" type="date" class="form-control" id="Checkin">
                 </div>
                 <div class="mb-3">
                     <label for="Checkout" class="form-label">Check out</label>
-                    <input type="datetime" class="form-control" id="Checkout">
+                    <input asp-for="checkOut" type="date" class="form-control" id="Checkout">
                 </div>
                 <div class="mb-3">
                     <label for="totalPrice" class="form-label">Total Price</label>
-                    <input type="text" class="form-control" readonly id="totalPrice">
+                    <input asp-for="totalPrice" type="text" class="form-control" readonly value="@ViewBag.price" id="totalPrice">
                 </div>
             </div>
             <div class="col-md-4 my-5">
@@ -52,24 +47,25 @@
                 </div>
                 <div class="mb-3">
                     <label for="NameOnCard" class="form-label">Name on card</label>
-                    <input type="text" class="form-control" id="NameOnCard">
+                    <input asp-for="nameOnCard" type="text" class="form-control" id="NameOnCard">
                 </div>
                 <div class="mb-3">
-                    <label for="CARDNUMBER" class="form-label">CARD NUMBER</label>
-                    <input type="text" class="form-control" id="CARDNUMBER">
+                    <label for="CardNumber" class="form-label">CARD NUMBER</label>
+                    <input asp-for="cardNumber" type="text" class="form-control" id="CardNumber">
                 </div>
                 <div class="mb-3 d-lg-inline-block me-5">
-                    <label for="EXPDATE" class="form-label">EXP DATE</label>
-                    <input type="date" class="form-control me-5" id="EXPDATE">
+                    <label for="ExpDate" class="form-label">EXP DATE</label>
+                    <input asp-for="expDate" type="date" class="form-control me-5" id="ExpDate">
                 </div>
                 <div class="mb-3 d-lg-inline-block">
                     <label for="CVV" class="form-label">CVV</label>
-                    <input type="text" class="form-control" id="CVV">
+                    <input asp-for="cvv" type="text" class="form-control" id="CVV">
                 </div>
             </div>
-           
+            <input asp-for=UserId value="@ViewBag.userId" hidden>
+            <input asp-for=roomId value="@ViewBag.roomId" hidden>
             <div class="col-md-12 text-center">
-                <a class="btn mb-5">PAY NOW</a>
+                <input type="submit" class="btn mb-5" value="PAY NOW">
             </div>
         </div>
     </form>

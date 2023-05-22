@@ -6,12 +6,19 @@
 
 }
 @model IEnumerable<Room>;
+
 <section class="section5">
-    <div class="row justify-content-start">
+    <div class="row justify-content-between">
         <div class="col-md-5">
             <h1 class="header1 m-5">Welcome to <span class="span1">Travellaire Hotel</span> in Egypt</h1>
             <p class="p3 m-5">Book your stay and enjoy Travellaire redefined at the most affordable rates.</p>
         </div>
+        @if (ViewData["session"].ToString() == "ash")
+        {
+            <div class="col-md-4">
+                <a asp-controller="Room" asp-action="create" type="button" class="btn">Add Room</a>
+            </div>
+        }
     </div>
 </section>
 <section class="allSection">
@@ -21,24 +28,24 @@
         {
             @if (item.roomName == "The Royal Room")
             {
-                <div class="col-md-3 mb-5">
+                <div class="col-md-4 mb-5">
                     <div class="card" style="width: 25rem;">
                         <img src="~/Img/@item.room_Pic" alt="room_pic_Image_Here" class="card-img-top">
                         <div class="card-body">
                             <h5 class="card-title">@item.roomName</h5>
                             <p class="card-text">@item.roomType</p>
                             <p class="card-text">₦@item.priceParNight</p>
-                            <a asp-controller="Book" asp-action="Index" class="btn float-end">Book now</a>
+                            <a asp-controller="Room" asp-action="Details" asp-route-id="@item.ID" class="btn float-end">Book now</a>
                         </div>
                     </div>
                 </div>
             }
         }
-
     </div>
+
 </section>
 <section class="allSection">
-    <h2 class="ms-5 my-5">Suite</h2>
+    <h2 class="ms-5 my-5">Most order</h2>
     <div class="row justify-content-center">
 
         <div class="col-md-10 mb-5">
@@ -47,36 +54,13 @@
                 <div class="card-body">
                     <h5 class="card-title">SUITE</h5>
                     <p class="card-text">₦190,000</p>
-                    <a asp-controller="Book" asp-action="Index" class="btn float-end">Book now</a>
                 </div>
             </div>
         </div>
     </div>
 </section>
 <section class="allSection">
-    <h2 class="ms-5 my-5">Offers</h2>
-    <div class="row justify-content-around">
-        @foreach (var item in Model)
-        {
-            @if (item.roomName == "The Royal Room")
-            {
-                <div class="col-md-3 mb-5">
-                    <div class="card" style="width: 25rem;">
-                        <img src="~/Img/@item.room_Pic" alt="room_pic_Image_Here" class="card-img-top">
-                        <div class="card-body">
-                            <h5 class="card-title">@item.roomName</h5>
-                            <p class="card-text">@item.roomType</p>
-                            <p class="card-text">₦@item.priceParNight</p>
-                            <a asp-controller="Book" asp-action="Index" class="btn float-end">Book now</a>
-                        </div>
-                    </div>
-                </div>
-            }
-        }
-    </div>
-</section>
-<section class="allSection">
-    <h2 class="ms-5 my-5">Most order</h2>
+    <h2 class="ms-5 my-5">Suite</h2>
     <div class="row justify-content-around">
         @foreach (var item in Model)
         {
@@ -86,9 +70,9 @@
                     <div class="card" style="width:100%;">
                         <img src="~/Img/@item.room_Pic" alt="room_pic_Image_Here" class="card-img-top">
                         <div class="card-body">
-                            <h5 class="card-title">@item.roomName</h5>
-                            <p class="card-text">₦@item.priceParNight</p>
-                            <a asp-controller="Book" asp-action="Index" class="btn float-end">Book now</a>
+                            <h5 class="card-title">@item.roomName;</h5>
+                            <p class="card-text">₦@item.priceParNight;</p>
+                            <a asp-controller="Room" asp-action="Details" asp-route-id="@item.ID" class="btn float-end">Book now</a>
                         </div>
                     </div>
                 </div>

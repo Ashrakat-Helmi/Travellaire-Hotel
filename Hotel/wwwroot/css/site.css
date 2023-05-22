@@ -183,7 +183,7 @@ html {
     letter-spacing: 0.1em;
     color: #FFFFFF;
 }
-.section1 .btn {
+.section1 .btn , .section5 .btn {
     font-family: 'Montserrat';
     font-style: normal;
     font-weight: 700;

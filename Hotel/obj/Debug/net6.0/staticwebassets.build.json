@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "1P25I2e8XAO8snynX1klEZVCFGtabzzo6q0x5OdjSaI=",
+  "Hash": "N+2Mi7945IFjGV/gqOMBXurloDMSXNptOG9fVaRVI6Y=",
   "Source": "Hotel",
   "BasePath": "_content/Hotel",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Hotel\\wwwroot",
       "Source": "Hotel",
-      "ContentRoot": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\",
+      "ContentRoot": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\",
       "BasePath": "_content/Hotel",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Hotel.styles.css",
+      "Identity": "E:\\Travellaire-Hotel-main\\Hotel\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Hotel.styles.css",
       "SourceId": "Hotel",
       "SourceType": "Computed",
-      "ContentRoot": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "E:\\Travellaire-Hotel-main\\Hotel\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/Hotel",
       "RelativePath": "Hotel.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Hotel.styles.css"
+      "OriginalItemSpec": "E:\\Travellaire-Hotel-main\\Hotel\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Hotel.styles.css"
     },
     {
-      "Identity": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Hotel.bundle.scp.css",
+      "Identity": "E:\\Travellaire-Hotel-main\\Hotel\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Hotel.bundle.scp.css",
       "SourceId": "Hotel",
       "SourceType": "Computed",
-      "ContentRoot": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "E:\\Travellaire-Hotel-main\\Hotel\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/Hotel",
       "RelativePath": "Hotel.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Hotel.bundle.scp.css"
+      "OriginalItemSpec": "E:\\Travellaire-Hotel-main\\Hotel\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Hotel.bundle.scp.css"
     },
     {
-      "Identity": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\css\\site.css",
+      "Identity": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\css\\site.css",
       "SourceId": "Hotel",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\",
+      "ContentRoot": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\",
       "BasePath": "_content/Hotel",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\favicon.ico",
+      "Identity": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\favicon.ico",
       "SourceId": "Hotel",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\",
+      "ContentRoot": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\",
       "BasePath": "_content/Hotel",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\img\\11-profile.png",
+      "Identity": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\img\\11-profile.png",
       "SourceId": "Hotel",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\",
+      "ContentRoot": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\",
       "BasePath": "_content/Hotel",
       "RelativePath": "img/11-profile.png",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\img\\11-profile.png"
     },
     {
-      "Identity": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\img\\63-calendar.png",
+      "Identity": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\img\\63-calendar.png",
       "SourceId": "Hotel",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\",
+      "ContentRoot": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\",
       "BasePath": "_content/Hotel",
       "RelativePath": "img/63-calendar.png",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\img\\63-calendar.png"
     },
     {
-      "Identity": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\img\\64-location.png",
+      "Identity": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\img\\64-location.png",
       "SourceId": "Hotel",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\",
+      "ContentRoot": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\",
       "BasePath": "_content/Hotel",
       "RelativePath": "img/64-location.png",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\img\\64-location.png"
     },
     {
-      "Identity": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\img\\andrew-ruiz-fmz-B9At9iQ-unsplash.png",
+      "Identity": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\img\\andrew-ruiz-fmz-B9At9iQ-unsplash.png",
       "SourceId": "Hotel",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\",
+      "ContentRoot": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\",
       "BasePath": "_content/Hotel",
       "RelativePath": "img/andrew-ruiz-fmz-B9At9iQ-unsplash.png",
       "AssetKind": "All",
@@ -153,10 +153,27 @@
       "OriginalItemSpec": "wwwroot\\img\\andrew-ruiz-fmz-B9At9iQ-unsplash.png"
     },
     {
-      "Identity": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\img\\breakfast.png",
+      "Identity": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\img\\ava3.webp",
       "SourceId": "Hotel",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\",
+      "ContentRoot": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\",
+      "BasePath": "_content/Hotel",
+      "RelativePath": "img/ava3.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\ava3.webp"
+    },
+    {
+      "Identity": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\img\\breakfast.png",
+      "SourceId": "Hotel",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\",
       "BasePath": "_content/Hotel",
       "RelativePath": "img/breakfast.png",
       "AssetKind": "All",
@@ -170,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\img\\breakfast.png"
     },
     {
-      "Identity": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\img\\c 1.png",
+      "Identity": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\img\\c 1.png",
       "SourceId": "Hotel",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\",
+      "ContentRoot": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\",
       "BasePath": "_content/Hotel",
       "RelativePath": "img/c 1.png",
       "AssetKind": "All",
@@ -187,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\img\\c 1.png"
     },
     {
-      "Identity": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\img\\ee 1.png",
+      "Identity": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\img\\ee 1.png",
       "SourceId": "Hotel",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\",
+      "ContentRoot": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\",
       "BasePath": "_content/Hotel",
       "RelativePath": "img/ee 1.png",
       "AssetKind": "All",
@@ -204,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\img\\ee 1.png"
     },
     {
-      "Identity": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\img\\Ellipse 5 (1).png",
+      "Identity": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\img\\Ellipse 5 (1).png",
       "SourceId": "Hotel",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\",
+      "ContentRoot": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\",
       "BasePath": "_content/Hotel",
       "RelativePath": "img/Ellipse 5 (1).png",
       "AssetKind": "All",
@@ -221,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Ellipse 5 (1).png"
     },
     {
-      "Identity": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\img\\Ellipse 5 (2).png",
+      "Identity": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\img\\Ellipse 5 (2).png",
       "SourceId": "Hotel",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\",
+      "ContentRoot": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\",
       "BasePath": "_content/Hotel",
       "RelativePath": "img/Ellipse 5 (2).png",
       "AssetKind": "All",
@@ -238,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Ellipse 5 (2).png"
     },
     {
-      "Identity": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\img\\Ellipse 5.png",
+      "Identity": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\img\\Ellipse 5.png",
       "SourceId": "Hotel",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\",
+      "ContentRoot": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\",
       "BasePath": "_content/Hotel",
       "RelativePath": "img/Ellipse 5.png",
       "AssetKind": "All",
@@ -255,10 +272,27 @@
       "OriginalItemSpec": "wwwroot\\img\\Ellipse 5.png"
     },
     {
-      "Identity": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\img\\game.png",
+      "Identity": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\img\\FullMoon2010.jpg",
       "SourceId": "Hotel",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\",
+      "ContentRoot": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\",
+      "BasePath": "_content/Hotel",
+      "RelativePath": "img/FullMoon2010.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\FullMoon2010.jpg"
+    },
+    {
+      "Identity": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\img\\game.png",
+      "SourceId": "Hotel",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\",
       "BasePath": "_content/Hotel",
       "RelativePath": "img/game.png",
       "AssetKind": "All",
@@ -272,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\img\\game.png"
     },
     {
-      "Identity": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\img\\Group 10.png",
+      "Identity": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\img\\Group 10.png",
       "SourceId": "Hotel",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\",
+      "ContentRoot": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\",
       "BasePath": "_content/Hotel",
       "RelativePath": "img/Group 10.png",
       "AssetKind": "All",
@@ -289,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Group 10.png"
     },
     {
-      "Identity": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\img\\gym.png",
+      "Identity": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\img\\gym.png",
       "SourceId": "Hotel",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\",
+      "ContentRoot": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\",
       "BasePath": "_content/Hotel",
       "RelativePath": "img/gym.png",
       "AssetKind": "All",
@@ -306,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\img\\gym.png"
     },
     {
-      "Identity": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\img\\ian-dooley-hpTH5b6mo2s-unsplash 1.png",
+      "Identity": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\img\\ian-dooley-hpTH5b6mo2s-unsplash 1.png",
       "SourceId": "Hotel",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\",
+      "ContentRoot": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\",
       "BasePath": "_content/Hotel",
       "RelativePath": "img/ian-dooley-hpTH5b6mo2s-unsplash 1.png",
       "AssetKind": "All",
@@ -323,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\img\\ian-dooley-hpTH5b6mo2s-unsplash 1.png"
     },
     {
-      "Identity": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\img\\image 1.png",
+      "Identity": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\img\\image 1.png",
       "SourceId": "Hotel",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\",
+      "ContentRoot": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\",
       "BasePath": "_content/Hotel",
       "RelativePath": "img/image 1.png",
       "AssetKind": "All",
@@ -340,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\img\\image 1.png"
     },
     {
-      "Identity": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\img\\image 11.png",
+      "Identity": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\img\\image 11.png",
       "SourceId": "Hotel",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\",
+      "ContentRoot": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\",
       "BasePath": "_content/Hotel",
       "RelativePath": "img/image 11.png",
       "AssetKind": "All",
@@ -357,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\img\\image 11.png"
     },
     {
-      "Identity": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\img\\image 12.png",
+      "Identity": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\img\\image 12.png",
       "SourceId": "Hotel",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\",
+      "ContentRoot": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\",
       "BasePath": "_content/Hotel",
       "RelativePath": "img/image 12.png",
       "AssetKind": "All",
@@ -374,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\img\\image 12.png"
     },
     {
-      "Identity": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\img\\image 4.png",
+      "Identity": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\img\\image 4.png",
       "SourceId": "Hotel",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\",
+      "ContentRoot": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\",
       "BasePath": "_content/Hotel",
       "RelativePath": "img/image 4.png",
       "AssetKind": "All",
@@ -391,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\img\\image 4.png"
     },
     {
-      "Identity": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\img\\image 5.png",
+      "Identity": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\img\\image 5.png",
       "SourceId": "Hotel",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\",
+      "ContentRoot": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\",
       "BasePath": "_content/Hotel",
       "RelativePath": "img/image 5.png",
       "AssetKind": "All",
@@ -408,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\img\\image 5.png"
     },
     {
-      "Identity": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\img\\image 8.png",
+      "Identity": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\img\\image 8.png",
       "SourceId": "Hotel",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\",
+      "ContentRoot": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\",
       "BasePath": "_content/Hotel",
       "RelativePath": "img/image 8.png",
       "AssetKind": "All",
@@ -425,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\img\\image 8.png"
     },
     {
-      "Identity": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\img\\image 9.png",
+      "Identity": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\img\\image 9.png",
       "SourceId": "Hotel",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\",
+      "ContentRoot": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\",
       "BasePath": "_content/Hotel",
       "RelativePath": "img/image 9.png",
       "AssetKind": "All",
@@ -442,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\img\\image 9.png"
     },
     {
-      "Identity": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\img\\img48.png",
+      "Identity": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\img\\img48.png",
       "SourceId": "Hotel",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\",
+      "ContentRoot": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\",
       "BasePath": "_content/Hotel",
       "RelativePath": "img/img48.png",
       "AssetKind": "All",
@@ -459,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\img\\img48.png"
     },
     {
-      "Identity": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\img\\light.png",
+      "Identity": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\img\\light.png",
       "SourceId": "Hotel",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\",
+      "ContentRoot": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\",
       "BasePath": "_content/Hotel",
       "RelativePath": "img/light.png",
       "AssetKind": "All",
@@ -476,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\img\\light.png"
     },
     {
-      "Identity": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\img\\luandry.png",
+      "Identity": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\img\\luandry.png",
       "SourceId": "Hotel",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\",
+      "ContentRoot": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\",
       "BasePath": "_content/Hotel",
       "RelativePath": "img/luandry.png",
       "AssetKind": "All",
@@ -493,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\img\\luandry.png"
     },
     {
-      "Identity": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\img\\makiSwimming0.png",
+      "Identity": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\img\\makiSwimming0.png",
       "SourceId": "Hotel",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\",
+      "ContentRoot": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\",
       "BasePath": "_content/Hotel",
       "RelativePath": "img/makiSwimming0.png",
       "AssetKind": "All",
@@ -510,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\img\\makiSwimming0.png"
     },
     {
-      "Identity": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\img\\park.png",
+      "Identity": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\img\\park.png",
       "SourceId": "Hotel",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\",
+      "ContentRoot": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\",
       "BasePath": "_content/Hotel",
       "RelativePath": "img/park.png",
       "AssetKind": "All",
@@ -527,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\img\\park.png"
     },
     {
-      "Identity": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\img\\Path 38@2x.png",
+      "Identity": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\img\\Path 38@2x.png",
       "SourceId": "Hotel",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\",
+      "ContentRoot": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\",
       "BasePath": "_content/Hotel",
       "RelativePath": "img/Path 38@2x.png",
       "AssetKind": "All",
@@ -544,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Path 38@2x.png"
     },
     {
-      "Identity": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\img\\Path 39.png",
+      "Identity": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\img\\Path 39.png",
       "SourceId": "Hotel",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\",
+      "ContentRoot": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\",
       "BasePath": "_content/Hotel",
       "RelativePath": "img/Path 39.png",
       "AssetKind": "All",
@@ -561,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Path 39.png"
     },
     {
-      "Identity": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\img\\Path 40.png",
+      "Identity": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\img\\Path 40.png",
       "SourceId": "Hotel",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\",
+      "ContentRoot": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\",
       "BasePath": "_content/Hotel",
       "RelativePath": "img/Path 40.png",
       "AssetKind": "All",
@@ -578,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Path 40.png"
     },
     {
-      "Identity": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\img\\pexels-elina-sazonova-1838554 1.png",
+      "Identity": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\img\\pexels-elina-sazonova-1838554 1.png",
       "SourceId": "Hotel",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\",
+      "ContentRoot": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\",
       "BasePath": "_content/Hotel",
       "RelativePath": "img/pexels-elina-sazonova-1838554 1.png",
       "AssetKind": "All",
@@ -595,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pexels-elina-sazonova-1838554 1.png"
     },
     {
-      "Identity": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\img\\pexels-jonathan-borba-12876490.png",
+      "Identity": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\img\\pexels-jonathan-borba-12876490.png",
       "SourceId": "Hotel",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\",
+      "ContentRoot": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\",
       "BasePath": "_content/Hotel",
       "RelativePath": "img/pexels-jonathan-borba-12876490.png",
       "AssetKind": "All",
@@ -612,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pexels-jonathan-borba-12876490.png"
     },
     {
-      "Identity": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\img\\Rectangle 1107.png",
+      "Identity": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\img\\Rectangle 1107.png",
       "SourceId": "Hotel",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\",
+      "ContentRoot": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\",
       "BasePath": "_content/Hotel",
       "RelativePath": "img/Rectangle 1107.png",
       "AssetKind": "All",
@@ -629,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Rectangle 1107.png"
     },
     {
-      "Identity": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\img\\Rectangle 1124.png",
+      "Identity": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\img\\Rectangle 1124.png",
       "SourceId": "Hotel",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\",
+      "ContentRoot": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\",
       "BasePath": "_content/Hotel",
       "RelativePath": "img/Rectangle 1124.png",
       "AssetKind": "All",
@@ -646,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Rectangle 1124.png"
     },
     {
-      "Identity": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\img\\Rectangle 1127.png",
+      "Identity": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\img\\Rectangle 1127.png",
       "SourceId": "Hotel",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\",
+      "ContentRoot": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\",
       "BasePath": "_content/Hotel",
       "RelativePath": "img/Rectangle 1127.png",
       "AssetKind": "All",
@@ -663,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Rectangle 1127.png"
     },
     {
-      "Identity": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\img\\Rectangle 1136.png",
+      "Identity": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\img\\Rectangle 1136.png",
       "SourceId": "Hotel",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\",
+      "ContentRoot": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\",
       "BasePath": "_content/Hotel",
       "RelativePath": "img/Rectangle 1136.png",
       "AssetKind": "All",
@@ -680,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Rectangle 1136.png"
     },
     {
-      "Identity": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\img\\Rectangle 1137.png",
+      "Identity": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\img\\Rectangle 1137.png",
       "SourceId": "Hotel",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\",
+      "ContentRoot": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\",
       "BasePath": "_content/Hotel",
       "RelativePath": "img/Rectangle 1137.png",
       "AssetKind": "All",
@@ -697,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Rectangle 1137.png"
     },
     {
-      "Identity": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\img\\Rectangle 1138.png",
+      "Identity": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\img\\Rectangle 1138.png",
       "SourceId": "Hotel",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\",
+      "ContentRoot": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\",
       "BasePath": "_content/Hotel",
       "RelativePath": "img/Rectangle 1138.png",
       "AssetKind": "All",
@@ -714,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Rectangle 1138.png"
     },
     {
-      "Identity": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\img\\Rectangle 1138-2.png",
+      "Identity": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\img\\Rectangle 1138-2.png",
       "SourceId": "Hotel",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\",
+      "ContentRoot": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\",
       "BasePath": "_content/Hotel",
       "RelativePath": "img/Rectangle 1138-2.png",
       "AssetKind": "All",
@@ -731,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Rectangle 1138-2.png"
     },
     {
-      "Identity": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\img\\Rectangle 1142.png",
+      "Identity": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\img\\Rectangle 1142.png",
       "SourceId": "Hotel",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\",
+      "ContentRoot": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\",
       "BasePath": "_content/Hotel",
       "RelativePath": "img/Rectangle 1142.png",
       "AssetKind": "All",
@@ -748,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Rectangle 1142.png"
     },
     {
-      "Identity": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\img\\Rectangle 1143.png",
+      "Identity": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\img\\Rectangle 1143.png",
       "SourceId": "Hotel",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\",
+      "ContentRoot": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\",
       "BasePath": "_content/Hotel",
       "RelativePath": "img/Rectangle 1143.png",
       "AssetKind": "All",
@@ -765,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Rectangle 1143.png"
     },
     {
-      "Identity": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\img\\Rectangle 1148.png",
+      "Identity": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\img\\Rectangle 1148.png",
       "SourceId": "Hotel",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\",
+      "ContentRoot": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\",
       "BasePath": "_content/Hotel",
       "RelativePath": "img/Rectangle 1148.png",
       "AssetKind": "All",
@@ -782,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Rectangle 1148.png"
     },
     {
-      "Identity": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\img\\Rectangle 36.png",
+      "Identity": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\img\\Rectangle 36.png",
       "SourceId": "Hotel",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\",
+      "ContentRoot": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\",
       "BasePath": "_content/Hotel",
       "RelativePath": "img/Rectangle 36.png",
       "AssetKind": "All",
@@ -799,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Rectangle 36.png"
     },
     {
-      "Identity": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\img\\Rectanglevisa1.png",
+      "Identity": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\img\\Rectanglevisa1.png",
       "SourceId": "Hotel",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\",
+      "ContentRoot": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\",
       "BasePath": "_content/Hotel",
       "RelativePath": "img/Rectanglevisa1.png",
       "AssetKind": "All",
@@ -816,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Rectanglevisa1.png"
     },
     {
-      "Identity": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\img\\Rectanglevisa2.png",
+      "Identity": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\img\\Rectanglevisa2.png",
       "SourceId": "Hotel",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\",
+      "ContentRoot": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\",
       "BasePath": "_content/Hotel",
       "RelativePath": "img/Rectanglevisa2.png",
       "AssetKind": "All",
@@ -833,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Rectanglevisa2.png"
     },
     {
-      "Identity": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\img\\Rectanglevisa3.png",
+      "Identity": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\img\\Rectanglevisa3.png",
       "SourceId": "Hotel",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\",
+      "ContentRoot": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\",
       "BasePath": "_content/Hotel",
       "RelativePath": "img/Rectanglevisa3.png",
       "AssetKind": "All",
@@ -850,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Rectanglevisa3.png"
     },
     {
-      "Identity": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\img\\ss 1.png",
+      "Identity": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\img\\ss 1.png",
       "SourceId": "Hotel",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\",
+      "ContentRoot": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\",
       "BasePath": "_content/Hotel",
       "RelativePath": "img/ss 1.png",
       "AssetKind": "All",
@@ -867,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\img\\ss 1.png"
     },
     {
-      "Identity": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\img\\steven-ungermann-aRT5UCf2MYY-unsplash.png",
+      "Identity": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\img\\steven-ungermann-aRT5UCf2MYY-unsplash.png",
       "SourceId": "Hotel",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\",
+      "ContentRoot": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\",
       "BasePath": "_content/Hotel",
       "RelativePath": "img/steven-ungermann-aRT5UCf2MYY-unsplash.png",
       "AssetKind": "All",
@@ -884,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\img\\steven-ungermann-aRT5UCf2MYY-unsplash.png"
     },
     {
-      "Identity": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\img\\sw.zip",
+      "Identity": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\img\\sw.zip",
       "SourceId": "Hotel",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\",
+      "ContentRoot": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\",
       "BasePath": "_content/Hotel",
       "RelativePath": "img/sw.zip",
       "AssetKind": "All",
@@ -901,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\img\\sw.zip"
     },
     {
-      "Identity": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\img\\Vector4.png",
+      "Identity": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\img\\Vector4.png",
       "SourceId": "Hotel",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\",
+      "ContentRoot": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\",
       "BasePath": "_content/Hotel",
       "RelativePath": "img/Vector4.png",
       "AssetKind": "All",
@@ -918,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Vector4.png"
     },
     {
-      "Identity": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\img\\Vectorend.png",
+      "Identity": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\img\\Vectorend.png",
       "SourceId": "Hotel",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\",
+      "ContentRoot": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\",
       "BasePath": "_content/Hotel",
       "RelativePath": "img/Vectorend.png",
       "AssetKind": "All",
@@ -935,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Vectorend.png"
     },
     {
-      "Identity": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\img\\Vectorstart.png",
+      "Identity": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\img\\Vectorstart.png",
       "SourceId": "Hotel",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\",
+      "ContentRoot": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\",
       "BasePath": "_content/Hotel",
       "RelativePath": "img/Vectorstart.png",
       "AssetKind": "All",
@@ -952,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Vectorstart.png"
     },
     {
-      "Identity": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\img\\wifi.png",
+      "Identity": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\img\\wifi.png",
       "SourceId": "Hotel",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\",
+      "ContentRoot": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\",
       "BasePath": "_content/Hotel",
       "RelativePath": "img/wifi.png",
       "AssetKind": "All",
@@ -969,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\img\\wifi.png"
     },
     {
-      "Identity": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\js\\site.js",
+      "Identity": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\js\\site.js",
       "SourceId": "Hotel",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\",
+      "ContentRoot": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\",
       "BasePath": "_content/Hotel",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -986,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "Hotel",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\",
+      "ContentRoot": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\",
       "BasePath": "_content/Hotel",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -1003,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "Hotel",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\",
+      "ContentRoot": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\",
       "BasePath": "_content/Hotel",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -1020,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "Hotel",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\",
+      "ContentRoot": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\",
       "BasePath": "_content/Hotel",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -1037,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "Hotel",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\",
+      "ContentRoot": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\",
       "BasePath": "_content/Hotel",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -1054,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "Hotel",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\",
+      "ContentRoot": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\",
       "BasePath": "_content/Hotel",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -1071,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "Hotel",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\",
+      "ContentRoot": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\",
       "BasePath": "_content/Hotel",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -1088,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "Hotel",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\",
+      "ContentRoot": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\",
       "BasePath": "_content/Hotel",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -1105,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "Hotel",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\",
+      "ContentRoot": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\",
       "BasePath": "_content/Hotel",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -1122,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "Hotel",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\",
+      "ContentRoot": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\",
       "BasePath": "_content/Hotel",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -1139,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "Hotel",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\",
+      "ContentRoot": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\",
       "BasePath": "_content/Hotel",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -1156,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "Hotel",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\",
+      "ContentRoot": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\",
       "BasePath": "_content/Hotel",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -1173,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "Hotel",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\",
+      "ContentRoot": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\",
       "BasePath": "_content/Hotel",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -1190,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "Hotel",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\",
+      "ContentRoot": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\",
       "BasePath": "_content/Hotel",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -1207,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "Hotel",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\",
+      "ContentRoot": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\",
       "BasePath": "_content/Hotel",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -1224,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "Hotel",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\",
+      "ContentRoot": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\",
       "BasePath": "_content/Hotel",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -1241,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "Hotel",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\",
+      "ContentRoot": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\",
       "BasePath": "_content/Hotel",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -1258,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "Hotel",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\",
+      "ContentRoot": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\",
       "BasePath": "_content/Hotel",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -1275,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "Hotel",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\",
+      "ContentRoot": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\",
       "BasePath": "_content/Hotel",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -1292,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "Hotel",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\",
+      "ContentRoot": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\",
       "BasePath": "_content/Hotel",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -1309,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "Hotel",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\",
+      "ContentRoot": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\",
       "BasePath": "_content/Hotel",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -1326,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "Hotel",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\",
+      "ContentRoot": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\",
       "BasePath": "_content/Hotel",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -1343,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "Hotel",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\",
+      "ContentRoot": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\",
       "BasePath": "_content/Hotel",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -1360,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "Hotel",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\",
+      "ContentRoot": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\",
       "BasePath": "_content/Hotel",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -1377,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "Hotel",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\",
+      "ContentRoot": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\",
       "BasePath": "_content/Hotel",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -1394,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "Hotel",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\",
+      "ContentRoot": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\",
       "BasePath": "_content/Hotel",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -1411,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "Hotel",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\",
+      "ContentRoot": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\",
       "BasePath": "_content/Hotel",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -1428,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "Hotel",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\",
+      "ContentRoot": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\",
       "BasePath": "_content/Hotel",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -1445,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "Hotel",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\",
+      "ContentRoot": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\",
       "BasePath": "_content/Hotel",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -1462,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "Hotel",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\",
+      "ContentRoot": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\",
       "BasePath": "_content/Hotel",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -1479,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "Hotel",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\",
+      "ContentRoot": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\",
       "BasePath": "_content/Hotel",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -1496,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "Hotel",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\",
+      "ContentRoot": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\",
       "BasePath": "_content/Hotel",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -1513,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "Hotel",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\",
+      "ContentRoot": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\",
       "BasePath": "_content/Hotel",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -1530,10 +1564,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "Hotel",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\",
+      "ContentRoot": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\",
       "BasePath": "_content/Hotel",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1547,10 +1581,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "Hotel",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\",
+      "ContentRoot": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\",
       "BasePath": "_content/Hotel",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -1564,10 +1598,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "Hotel",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\",
+      "ContentRoot": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\",
       "BasePath": "_content/Hotel",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1581,10 +1615,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "Hotel",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\",
+      "ContentRoot": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\",
       "BasePath": "_content/Hotel",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -1598,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "Hotel",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\",
+      "ContentRoot": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\",
       "BasePath": "_content/Hotel",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -1615,10 +1649,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "Hotel",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\",
+      "ContentRoot": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\",
       "BasePath": "_content/Hotel",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -1632,10 +1666,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "Hotel",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\",
+      "ContentRoot": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\",
       "BasePath": "_content/Hotel",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -1649,10 +1683,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "Hotel",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\",
+      "ContentRoot": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\",
       "BasePath": "_content/Hotel",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -1666,10 +1700,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "Hotel",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\",
+      "ContentRoot": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\",
       "BasePath": "_content/Hotel",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -1683,10 +1717,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "Hotel",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\",
+      "ContentRoot": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\",
       "BasePath": "_content/Hotel",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -1700,10 +1734,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "Hotel",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\",
+      "ContentRoot": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\",
       "BasePath": "_content/Hotel",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1717,10 +1751,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "Hotel",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\",
+      "ContentRoot": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\",
       "BasePath": "_content/Hotel",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1734,10 +1768,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "Hotel",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\",
+      "ContentRoot": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\",
       "BasePath": "_content/Hotel",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1751,10 +1785,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "Hotel",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\",
+      "ContentRoot": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\",
       "BasePath": "_content/Hotel",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1768,10 +1802,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "Hotel",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\",
+      "ContentRoot": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\",
       "BasePath": "_content/Hotel",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1785,10 +1819,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "Hotel",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\",
+      "ContentRoot": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\",
       "BasePath": "_content/Hotel",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1802,10 +1836,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "Hotel",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\",
+      "ContentRoot": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\",
       "BasePath": "_content/Hotel",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -1819,10 +1853,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "Hotel",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\",
+      "ContentRoot": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\",
       "BasePath": "_content/Hotel",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1836,10 +1870,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "Hotel",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\",
+      "ContentRoot": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\",
       "BasePath": "_content/Hotel",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1853,10 +1887,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "Hotel",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\",
+      "ContentRoot": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\",
       "BasePath": "_content/Hotel",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1870,10 +1904,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "Hotel",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\",
+      "ContentRoot": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\",
       "BasePath": "_content/Hotel",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1887,10 +1921,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "Hotel",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\",
+      "ContentRoot": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\",
       "BasePath": "_content/Hotel",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1904,10 +1938,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "Hotel",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\",
+      "ContentRoot": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\",
       "BasePath": "_content/Hotel",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1921,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "Hotel",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\",
+      "ContentRoot": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\",
       "BasePath": "_content/Hotel",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1938,10 +1972,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "Hotel",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\fci\\SWD\\Travellaire-Hotel\\Hotel\\wwwroot\\",
+      "ContentRoot": "E:\\Travellaire-Hotel-main\\Hotel\\wwwroot\\",
       "BasePath": "_content/Hotel",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",

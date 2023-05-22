@@ -11,13 +11,13 @@ namespace Hotel.Models
         public string cvv { get; set; }
         public string nameOnCard { get; set; }
         public string cardNumber { get; set; }
-        public DateTime exp_date { get; set; }
+        public DateTime expDate { get; set; }
 
         public int UserId { get; set; }
         [ForeignKey("UserId")]
-        public User user { get; set; }
+        public RegisterModel? registerModel { get; set; }
         public int roomId { get; set; }
         [ForeignKey("roomId")]  
-        public Room room { get; set; }
+        public Room? room { get; set; }
     }
 }

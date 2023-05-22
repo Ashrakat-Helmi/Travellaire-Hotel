@@ -1,5 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations.Schema;
 using System.ComponentModel.DataAnnotations;
+using System.ComponentModel;
 
 namespace Hotel.Models
 {
@@ -24,5 +25,10 @@ namespace Hotel.Models
         [Required]
         [DataType(DataType.Password, ErrorMessage = "Not match with password")]
         public string confirmPass { get; set; }
+        [Display(Name = "Image")]
+        [DefaultValue("ava3.webp")]
+        public string userPic { get; set; }
+        public ICollection<Contact>? Contacts { get; set; }
+        public ICollection<Booking>? Bookings { get; set; }
     }
 }

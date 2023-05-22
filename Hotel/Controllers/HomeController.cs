@@ -16,10 +16,12 @@ namespace Hotel.Controllers
         public IActionResult Index()
         {
             ViewData["session"] = HttpContext.Session.GetString("Name");
-           return View();
+            ViewData["sessionid"] = HttpContext.Session.GetString("UserID");
+
+            return View();
         }
 
-   
+
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()

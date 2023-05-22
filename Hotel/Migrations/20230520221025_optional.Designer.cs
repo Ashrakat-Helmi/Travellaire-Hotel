@@ -4,6 +4,7 @@ using Hotel.Data;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
@@ -11,9 +12,11 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Hotel.Migrations
 {
     [DbContext(typeof(ApplicationDBcontext))]
-    partial class ApplicationDBcontextModelSnapshot : ModelSnapshot
+    [Migration("20230520221025_optional")]
+    partial class optional
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -130,10 +133,6 @@ namespace Hotel.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<string>("userPic")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
                     b.HasKey("ID");
 
                     b.ToTable("registerModels");
@@ -173,6 +172,43 @@ namespace Hotel.Migrations
                     b.ToTable("rooms");
                 });
 
+            modelBuilder.Entity("Hotel.Models.User", b =>
+                {
+                    b.Property<int>("ID")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("ID"));
+
+                    b.Property<string>("address")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("userEmail")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("userMobile")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("userName")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("userPass")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("userPic")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("ID");
+
+                    b.ToTable("users");
+                });
+
             modelBuilder.Entity("Hotel.Models.UserLogin", b =>
                 {
                     b.Property<int>("ID")
@@ -196,7 +232,7 @@ namespace Hotel.Migrations
 
             modelBuilder.Entity("Hotel.Models.Booking", b =>
                 {
-                    b.HasOne("Hotel.Models.RegisterModel", "registerModel")
+                    b.HasOne("Hotel.Models.User", "user")
                         .WithMany("Bookings")
                         .HasForeignKey("UserId")
                         .OnDelete(DeleteBehavior.Cascade)
@@ -208,32 +244,32 @@ namespace Hotel.Migrations
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
-                    b.Navigation("registerModel");
-
                     b.Navigation("room");
+
+                    b.Navigation("user");
                 });
 
             modelBuilder.Entity("Hotel.Models.Contact", b =>
                 {
-                    b.HasOne("Hotel.Models.RegisterModel", "registerModel")
+                    b.HasOne("Hotel.Models.User", "user")
                         .WithMany("Contacts")
                         .HasForeignKey("userId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
-                    b.Navigation("registerModel");
-                });
-
-            modelBuilder.Entity("Hotel.Models.RegisterModel", b =>
-                {
-                    b.Navigation("Bookings");
-
-                    b.Navigation("Contacts");
+                    b.Navigation("user");
                 });
 
             modelBuilder.Entity("Hotel.Models.Room", b =>
                 {
                     b.Navigation("Bookings");
+                });
+
+            modelBuilder.Entity("Hotel.Models.User", b =>
+                {
+                    b.Navigation("Bookings");
+
+                    b.Navigation("Contacts");
                 });
 #pragma warning restore 612, 618
         }

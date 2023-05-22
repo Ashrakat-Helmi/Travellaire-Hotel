@@ -1,6 +1,7 @@
 ﻿@*
     For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 *@
+@model Hotel.Models.RegisterModel;
 @{
     ViewData["Title"] = "Profile Page";
 }
@@ -13,10 +14,11 @@
                     <div class="card-body text-center">
                         <img src="https://mdbcdn.b-cdn.net/img/Photos/new-templates/bootstrap-chat/ava3.webp" alt="avatar"
                              class="rounded-circle img-fluid" style="width: 150px;">
-                        <h5 class="my-3">John Smith</h5>
-                       <form asp-action="Create" enctype="multipart/form-data">
+                        <h5 class="my-3">@Model.userName</h5>
+                        <form asp-action="Edit" enctype="multipart/form-data">
                             <div class="mb-3">
-                                <input class="form-control form-control-sm" id="formFileSm" type="file" name="user_img">
+                                <input class="form-control form-control-sm" id="formFileSm" type="file" asp-for="userPic">
+                                <input type="submit" class="form-control" value="Add"  />
                             </div>
                        </form>
                     </div>
@@ -24,26 +26,47 @@
                 <div class="card mb-4 mb-lg-0">
                     <div class="card-body p-0">
                         <ul class="list-group list-group-flush rounded-3">
-                            <li class="list-group-item d-flex justify-content-between align-items-start p-3">
-                                <p class="mb-0 me-2 text-primary">Compliment:</p>
-                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. </p>
-                            </li>
-                            <li class="list-group-item d-flex justify-content-between align-items-start p-3">
-                                <p class="mb-0 me-2 text-primary">Opinion</p>
-                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. </p>
-                            </li>
-                            <li class="list-group-item d-flex justify-content-between align-items-start p-3">
-                                <p class="mb-0 me-2 text-primary">Enquiries</p>
-                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. </p>
-                            </li>
-                            <li class="list-group-item d-flex justify-content-between align-items-start p-3">
-                                <p class="mb-0 me-2 text-primary">Compaints</p>
-                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. </p>
-                            </li>
-                            <li class="list-group-item d-flex justify-content-between align-items-start p-3">
-                                <p class="mb-0 me-2 text-primary">Requests</p>
-                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. </p>
-                            </li>
+                            @{
+                                foreach (var item in Model.Contacts)
+                                {
+
+                                    @if (item.type == "Compliment")
+                                    {
+                                        <li class="list-group-item d-flex justify-content-between align-items-start p-3">
+                                            <p class="mb-0 me-2 text-primary">Compliment:</p>
+                                            <p>@item.message </p>
+                                        </li>
+                                    }
+                                    else if (item.type == "Opinion")
+                                    {
+                                        <li class="list-group-item d-flex justify-content-between align-items-start p-3">
+                                            <p class="mb-0 me-2 text-primary">Opinion</p>
+                                            <p>@item.message</p>
+                                        </li>
+                                    }
+                                    else if (item.type == "Enquiries")
+                                    {
+                                        <li class="list-group-item d-flex justify-content-between align-items-start p-3">
+                                            <p class="mb-0 me-2 text-primary">Enquiries</p>
+                                            <p>@item.message </p>
+                                        </li>
+                                    }
+                                    else if (item.type == "Compaints")
+                                    {
+                                        <li class="list-group-item d-flex justify-content-between align-items-start p-3">
+                                            <p class="mb-0 me-2 text-primary">Compaints</p>
+                                            <p>@item.message </p>
+                                        </li>
+                                    }
+                                    else if (item.type == "Requests")
+                                    {
+                                        <li class="list-group-item d-flex justify-content-between align-items-start p-3">
+                                            <p class="mb-0 me-2 text-primary">Requests</p>
+                                            <p>@item.message </p>
+                                        </li>
+                                    }
+                                }
+                            }
                         </ul>
                     </div>
                 </div>
@@ -56,7 +79,7 @@
                                 <p class="mb-0">Full Name</p>
                             </div>
                             <div class="col-sm-9">
-                                <p class="text-muted mb-0">Johnatan Smith</p>
+                                <p class="text-muted mb-0">@Model.userName</p>
                             </div>
                         </div>
                         <hr>
@@ -65,7 +88,7 @@
                                 <p class="mb-0">Email</p>
                             </div>
                             <div class="col-sm-9">
-                                <p class="text-muted mb-0">example@example.com</p>
+                                <p class="text-muted mb-0">@Model.userEmail</p>
                             </div>
                         </div>
                         <hr>
@@ -74,7 +97,7 @@
                                 <p class="mb-0">Phone</p>
                             </div>
                             <div class="col-sm-9">
-                                <p class="text-muted mb-0">(097) 234-5678</p>
+                                <p class="text-muted mb-0">@Model.userMobile</p>
                             </div>
                         </div>
                         <hr>
@@ -83,13 +106,13 @@
                                 <p class="mb-0">Address</p>
                             </div>
                             <div class="col-sm-9">
-                                <p class="text-muted mb-0">Bay Area, San Francisco, CA</p>
+                                <p class="text-muted mb-0">@Model.address</p>
                             </div>
                         </div>
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col-md-6">
+                    <div class="col-md-10">
                         <div class="card mb-4 mb-md-0">
                             <div class="card-body">
                                 <p class="mb-4">
@@ -97,62 +120,24 @@
                                 </p>
                                 
                                 <ul class="list-group list-group-flush rounded-3">
-                                    <li class="list-group-item d-flex justify-content-between align-items-start p-3">
-                                        <p class="mb-0 me-2 text-primary">Royal Room:</p>
-                                        <p>from: 10/5/2023  To:12/5/2023 </p>
-                                    </li>
-                                    <li class="list-group-item d-flex justify-content-between align-items-start p-3">
-                                        <p class="mb-0 me-2 text-primary">Royal Room:</p>
-                                        <p>from: 10/5/2023  To:12/5/2023 </p>
-                                    </li>
-                                    <li class="list-group-item d-flex justify-content-between align-items-start p-3">
-                                        <p class="mb-0 me-2 text-primary">Royal Room:</p>
-                                        <p>from: 10/5/2023  To:12/5/2023 </p>
-                                    </li>
-                                    <li class="list-group-item d-flex justify-content-between align-items-start p-3">
-                                        <p class="mb-0 me-2 text-primary">Royal Room:</p>
-                                        <p>from: 10/5/2023  To:12/5/2023 </p>
-                                    </li>
-                                    <li class="list-group-item d-flex justify-content-between align-items-start p-3">
-                                        <p class="mb-0 me-2 text-primary">Royal Room:</p>
-                                        <p>from: 10/5/2023  To:12/5/2023 </p>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-6">
-                        <div class="card mb-4 mb-md-0">
-                            <div class="card-body">
-                                <p class="mb-4">
-                                    <span class="text-primary font-italic me-1">Previous</span> Bookings
-                                </p>
+                                    @{
+                                        foreach (var item in Model.Bookings)
+                                        {
 
-                                <ul class="list-group list-group-flush rounded-3">
-                                    <li class="list-group-item d-flex justify-content-between align-items-start p-3">
-                                        <p class="mb-0 me-2 text-primary">Suite:</p>
-                                        <p>from: 10/5/2022  To:12/5/2022 </p>
-                                    </li>
-                                    <li class="list-group-item d-flex justify-content-between align-items-start p-3">
-                                        <p class="mb-0 me-2 text-primary">Suite:</p>
-                                        <p>from: 10/5/2022  To:12/5/2022 </p>
-                                    </li>
-                                    <li class="list-group-item d-flex justify-content-between align-items-start p-3">
-                                        <p class="mb-0 me-2 text-primary">Suite:</p>
-                                        <p>from: 10/5/2022  To:12/5/2022 </p>
-                                    </li>
-                                    <li class="list-group-item d-flex justify-content-between align-items-start p-3">
-                                        <p class="mb-0 me-2 text-primary">Suite:</p>
-                                        <p>from: 10/5/2022  To:12/5/2022 </p>
-                                    </li>
-                                    <li class="list-group-item d-flex justify-content-between align-items-start p-3">
-                                        <p class="mb-0 me-2 text-primary">Suite:</p>
-                                        <p>from: 10/5/2022  To:12/5/2022 </p>
-                                    </li>
-                                </ul>
+                                            <li class="list-group-item d-flex justify-content-between align-items-start p-3">
+                                                <p class="mb-0 me-2 text-primary">@item.roomId</p>
+                                                <p>from:@item.checkIn</p>
+                                                <p>To:@item.checkOut </p>
+
+                                            </li>
+                                        }
+                                    }
+                                    </ul>
+                                
                             </div>
                         </div>
                     </div>
+                    
                 </div>
             </div>
         </div>

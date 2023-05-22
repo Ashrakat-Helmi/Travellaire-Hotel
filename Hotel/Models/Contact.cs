@@ -10,6 +10,6 @@ namespace Hotel.Models
         public DateTime date { get; set; }
         public int userId { get; set; }
             [ForeignKey("userId")]
-            public User user { get; set; }
+            public RegisterModel? registerModel { get; set; }
     }
 }
